@@ -1,4 +1,4 @@
-<div class="flex flex-col justify-center items-center space-y-4 p-10">
+<div class="flex flex-col justify-center items-center space-y-4 px-10">
     <h1 class="text-white text-4xl font-medium sm:font-bold text-center">
         African Photography NFT Collection
     </h1>
