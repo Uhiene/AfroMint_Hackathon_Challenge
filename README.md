@@ -1,7 +1,7 @@
 # How To Replicate the Project
 Demo
 
-![](https://paper-attachments.dropboxusercontent.com/s_5770B4B695BC2DB4686E7360F4E17DB3C11412DAEEE97850FD326C28EA772182_1672323659480_afromint+final.gif)
+![demo video](https://paper-attachments.dropboxusercontent.com/s_5770B4B695BC2DB4686E7360F4E17DB3C11412DAEEE97850FD326C28EA772182_1672323659480_afromint+final.gif)
 
 
 
