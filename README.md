@@ -62,14 +62,16 @@ Use the following steps to create and update your `**.env**` file.
 3. Replace the keys below with the ones from Verbwire.
 
 
-    VERBWIRE_API_KEY=*******************************************
-    VERBWIRE_CONTRACT=******************************************
-    DB_CONNECTION=mysql
-    DB_HOST=127.0.0.1
-    DB_PORT=3306
-    DB_DATABASE=afromint
-    DB_USERNAME=root 
-    DB_PASSWORD=''
+    ```js
+        VERBWIRE_API_KEY=*******************************************
+        VERBWIRE_CONTRACT=******************************************
+        DB_CONNECTION=mysql
+        DB_HOST=127.0.0.1
+        DB_PORT=3306
+        DB_DATABASE=afromint
+        DB_USERNAME=root 
+        DB_PASSWORD=''
+    ```
 
 Your database connections should remain the same unless it is secured.
 
